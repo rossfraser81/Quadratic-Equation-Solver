@@ -25,6 +25,7 @@ for num in num_eq:
   x2 = (-b+cmath.sqrt(d))/(2*a)
   
   print("\nThe solutions to " + str(a) + "x^2 + " + str(b) + "x + " + str(c) + " = 0 are:" )
+  print("-----------------------------------------------")
   print("\n\t\tx1 = (" + str(x1) + ")")
   print("\n\t\tx2 = (" + str(x2) + ")")
 
